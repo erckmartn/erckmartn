@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **[GO](https://go.dev/)** 
 
-- 👨‍💻 All of my projects are available at [erickmartin.com](erickmartin.com)
+- 👨‍💻 All of my projects are available at [here](https://erickmartin.com)
 
 - 💬 Ask me about **JS, HTML, CSS, React**
 
 - 📫 How to reach me **erckmartn@gmail.com**
 
-- 📄 Know about my experiences [erickmartin.com/resume](erickmartin.com/resume)
+- 📄 Know about my experiences [here](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erick Martin</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h1 align="left">Hi 👋, I'm Erick Martin</h1>
+<h3 align="left">A passionate frontend developer from Peru</h3>
 
 - 🌱 I’m currently learning **[GO](https://go.dev/)** 
 
